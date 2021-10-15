@@ -1,1 +1,1 @@
-muestra los cambios
+muestra los cambios para stash
