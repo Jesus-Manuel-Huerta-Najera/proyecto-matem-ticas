@@ -1,1 +1,1 @@
-muestra los cambios para stash
+Mi primer cambio en GitHub con Git local-
