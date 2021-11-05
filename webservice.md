@@ -1,0 +1,2 @@
+# Servicios web:
+Los servicios web, se pueden encontrar como aplicaciones modulares donde se puede describir, publicar, localizar e invocar a través de una red, estas ayudan a mejorar la flexibilidad de los procesos empresariales, mediante integración del servicio real o el cliente que accede al servicio, un ejemplo sencillo es una aplicación empresarial que solicita un servicio de otra aplicación existente.
